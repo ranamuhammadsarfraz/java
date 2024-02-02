@@ -34,4 +34,3 @@ public class File_1 {
     }
 }
 
-// do practice and start from Abstraction
